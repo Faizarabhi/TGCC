@@ -1,6 +1,8 @@
 # TGCC
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+Les experts de la TGCC réunissant tous les acquis de l’expérience dans les domaines du management global, des stratégies en matière de leadership, et de la mise en œuvre de processus et pratiques efficientes et efficaces.
+
+Afin de poursuivre son développement, TGCC consolide son système de management par un progiciel intelligent qui gère le flux total de l'organisme.
 
 ## Development server
 
